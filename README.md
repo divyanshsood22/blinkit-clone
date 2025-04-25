@@ -23,5 +23,5 @@ A fully responsive clone of the Blinkit website, built entirely using **HTML** a
 
 ## 🛠️ How to Use
 
-    ```bash
+ ```bash
    git clone https://github.com/divyanshsood22/blinkit-clone.git
